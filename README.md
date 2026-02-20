@@ -63,7 +63,7 @@ src/
 
 1. **Clone the repository** (or navigate to the project directory):
    ```bash
-   cd Rust-High-Performance-API-Server-1
+   cd Rust-High-Performance-API-Server
    ```
 
 2. **Build the project**:
